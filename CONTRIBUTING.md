@@ -13,4 +13,4 @@ This project and everyone participating in it is governed by the [Beowulf Code o
 
 > **Note:** [Please don't file an issue to ask a question.](https://blog.atom.io/2016/04/19/managing-the-deluge-of-atom-issues.html) You'll get faster results by using the resources below.
 
-We have an official message board with a detailed FAQ and where the community chimes in with he
+We have an official message board with a detailed FAQ and where the community chimes in with helpful advice if you have questions.
